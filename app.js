@@ -1146,7 +1146,7 @@ function addPersistentMenu(){
     }
 })
  request({
-    url: 'https://graph.facebook.com/v2.6/me/messenger_profile',
+    url: 'https://graph.facebook.com/v2.6/155352528588482/messenger_profile',
     qs: { access_token: PAGE_ACCESS_TOKEN },
     method: 'POST',
     json:{
