@@ -43,7 +43,7 @@ app.use(express.static('public'));
  */
 
 // App Secret can be retrieved from the App Dashboard
-const APP_SECRET = "d35bba8fd06512d6ab765d40907071f1" ;
+const APP_SECRET = "d35bba8fd06512d6ab765d40907071f1";
 
 // Arbitrary value used to validate a webhook
 const VALIDATION_TOKEN = "ASCENCIOVARGAS123JOEL";
